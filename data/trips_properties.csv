@@ -1,0 +1,5 @@
+TripID,id:string,,true,,,,
+Timestamp,time,The timestamp at which the location was recorded,false,,,,
+Speed,double,,true,1,,,
+VehicleType,enum,,true,,,,
+GeometryID,geometryId:string,,true,,,,
