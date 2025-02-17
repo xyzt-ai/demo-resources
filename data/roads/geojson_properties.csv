@@ -1,0 +1,5 @@
+segmentId,segmentId,id:string,,,,,
+roadClass,roadClass,enum,,,,,
+priorityLevel,priorityLevel,priorityLevel:enum,,,,,
+name,name,displayname:string,,,,,
+reverseId,reverseId,reverseId:string,,,,,
