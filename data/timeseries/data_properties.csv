@@ -1,0 +1,4 @@
+GeometryId,id:string,,false,,,,
+Timestamp,time,,false,,,,
+Average Speed,float,,true,0.1,,,
+Number of Trips,int,,true,1,,,
